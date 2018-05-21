@@ -1,0 +1,22 @@
+{
+  "name": "javascriptutils",
+  "version": "1.0.0",
+  "description": "It is a collection of javascript files that can be used in a project for simple data processing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyevansweather/javascriptutils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyevansweather/javascriptutils/issues"
+  },
+  "homepage": "https://github.com/andyevansweather/javascriptutils#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
